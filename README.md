@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruskiiker
 - 👀 I’m interested in the software, music and the cosmos
-- 🌱 I’m currently learning JavaScript
+- 🌱 I 'speak' CSS, JavaScript, Node.js, React & Ruby
 - 🐧 I actively collaborate on Linux projects
 - 📫 How to reach me: You know my GitHub!
 
