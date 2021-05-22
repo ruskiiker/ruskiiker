@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ruskiiker
-- 💻 I code in CSS, JavaScript, Node.js, React & Ruby
+- 👋 Hi, I’m Iker
+- 💻 I code in CSS, JavaScript & React
 - 🐧 I actively collaborate on Linux projects
 - 📫 How to reach me: You know my GitHub!
 
