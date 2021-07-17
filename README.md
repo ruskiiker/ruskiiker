@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iker
-- 💻 I code in CSS, JavaScript, React & Python
+- 💻 I code in JavaScript, React, Node.js & Python
 - 🐧 I actively collaborate on Linux projects
 - 📫 How to reach me: You know my GitHub!
 
