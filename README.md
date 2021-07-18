@@ -3,7 +3,7 @@
 - 🐧 I actively collaborate on Linux projects
 - 📫 How to reach me: You know my GitHub!
 
-<h3 align="left">Languages and tools I use:</h3>
+<h3 align="left">🖥️ Languages and tools I use:</h3>
 
 <p align="left"> 
 
