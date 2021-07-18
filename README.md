@@ -22,5 +22,3 @@
 </p>
  
 [![Iker's github activity graph](https://activity-graph.herokuapp.com/graph?username=ruskiiker)](https://github.com/ruskiiker/github-readme-activity-graph)
-
-**
