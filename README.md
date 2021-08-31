@@ -1,7 +1,7 @@
  <img src="https://nahayatwp.ir/wp-content/uploads/2020/07/Programming-1.gif" width="300">
 
 ### 👋 Hi, I’m Iker
-- ⌨️ I code in JavaScript, React, Node.js & Python
+- ⌨️ I code in JavaScript, React & Node.js
 - 🐧 I actively collaborate on Linux projects
 - 📫 How to reach me: You know my GitHub!
 
