@@ -1,4 +1,4 @@
- <img src="https://mir-s3-cdn-cf.behance.net/projects/original/fb80bb81470333.Y3JvcCwxMzgwLDEwODAsMjkwLDA.png" width="300">
+ <img src="https://mir-s3-cdn-cf.behance.net/projects/original/fb80bb81470333.Y3JvcCwxMzgwLDEwODAsMjkwLDA.png" width="500">
 
 ### 👋 Hi, I’m Iker
 - ⌨️ I code in JavaScript, React & Node.js
