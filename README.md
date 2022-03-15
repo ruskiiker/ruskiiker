@@ -1,7 +1,8 @@
  <img src="https://mir-s3-cdn-cf.behance.net/projects/original/fb80bb81470333.Y3JvcCwxMzgwLDEwODAsMjkwLDA.png" width="500">
 
 ### 👋 Hi, I’m Iker
-- ⌨️ I code in JavaScript, React & Node.js
+- ⌨️ I write about APIs & technical documentation
+- 👾 I code in JavaScript, React & Node.js
 - 🐧 I actively collaborate on Linux projects
 - 📫 How to reach me: You know my GitHub!
 
